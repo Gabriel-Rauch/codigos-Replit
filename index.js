@@ -1,5 +1,5 @@
 //variaveis
-nomes = ['Rhoger', 'Cléverson', 'Gleysberto', 'Nádio', 'Rosiméri', 'Regislane', 'Agripino', 'Wellison']
+nomes = ['Rhoger', 'Cléverson', 'Gleisberto', 'Nádio', 'Rosiméri', 'Regislane', 'Agripino', 'Wellison']
 idade = [69,66,58,61,60,64,59,55]
 trabalho = [31,29,30,26,25,24,26,29]
 
